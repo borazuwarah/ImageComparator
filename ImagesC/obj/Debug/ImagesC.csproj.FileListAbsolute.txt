@@ -1,0 +1,10 @@
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\bin\Debug\ImagesC.exe.config
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\bin\Debug\ImagesC.exe
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\bin\Debug\ImagesC.pdb
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.csprojAssemblyReference.cache
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.Form1.resources
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.Properties.Resources.resources
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.csproj.GenerateResource.cache
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.exe
+C:\Users\Pablo.Ramirez\source\repos\ImagesC\ImagesC\obj\Debug\ImagesC.pdb
